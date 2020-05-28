@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+    android:id="@+id/acordou"
+    android:title="Acordou"
+    app:showAsAction="never"/>
+    <item
+        android:id="@+id/mamou"
+        android:title="Mamou"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/trocou"
+        android:title="Trocou"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/dormiu"
+        android:title="Dormiu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/delete_all"
+        android:title="Delete all"
+        app:showAsAction="never"/>
+</menu>
